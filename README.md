@@ -57,12 +57,11 @@
 > **왜 선택했는지와 어떤 대안이 있었는지** 함께 기록합니다.
 
 ## 🏆 GitHub Stats
+![Trophies](https://github-profile-trophy.liard.vercel.app/?username=Yes-000&theme=radical&row=1)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Yes-000&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yes-000&layout=compact&theme=radical)
 
 ![Streak](https://streak-stats.demolab.com?user=Yes-000&theme=radical)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yes-000&theme=radical&row=1)
 
