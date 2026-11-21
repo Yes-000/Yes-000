@@ -1,4 +1,4 @@
-# 2026-11-21 — 개발 환경과 프런트엔드 기초 학습
+# 2026 — 개발 환경과 프런트엔드 기초 학습
 
 > 이 기록은 개발 환경을 구성하고 기능을 구현하며 익힌 도구와 개념을 정리합니다. 외부 참고 자료로 [Claude artifact](https://claude.ai/artifact/J1EYHB3gPsvEWCkS3PC88h#page-dcb81aee8d83)를 함께 남깁니다.
 
