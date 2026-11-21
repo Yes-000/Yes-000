@@ -45,7 +45,6 @@
 ### 📓 Development Log
 
 - [개발 기록 모아보기](docs/development-log/README.md)
-- **2026-11-21 새 기록**
   - [개발 환경과 기초 개념](docs/development-log/2026-11-21-development-basics.md)
   - [웹 개발 흐름과 협업 방식](docs/development-log/2026-11-21-web-workflow-and-practice.md)
   - [URL, 어드민 데이터 흐름과 프론트엔드](docs/development-log/2026-11-21-url-admin-frontend-learning.md)
