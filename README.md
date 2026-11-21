@@ -5,15 +5,13 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Languages & Tools
-
 | Category | Technologies |
 | :--- | :--- |
-| **Language** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) |
-| **Backend & Database** | ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Monorepo** | ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white) ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white) |
-| **Deployment & Code Quality** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Biome](https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white) |
+| **Language** | TypeScript |
+| **Frontend** | React, Next.js, Vite |
+| **Backend & Database** | Supabase, PostgreSQL |
+| **Monorepo** | pnpm, Turborepo |
+| **Deployment & Code Quality** | Vercel, Biome |
 
 ## 🔭 Currently Working On
 
@@ -47,9 +45,14 @@
 ### 📓 Development Log
 
 - [개발 기록 모아보기](docs/development-log/README.md)
-  - 날짜별 개발 내용
-  - 해결한 문제와 배운 점
-  - 다음에 개선할 점
+- **2026-11-21 새 기록**
+  - [개발 환경과 기초 개념](docs/development-log/2026-11-21-development-basics.md)
+  - [웹 개발 흐름과 협업 방식](docs/development-log/2026-11-21-web-workflow-and-practice.md)
+  - [URL, 어드민 데이터 흐름과 프론트엔드](docs/development-log/2026-11-21-url-admin-frontend-learning.md)
+  - [컴포넌트 구조, Git과 라우팅](docs/development-log/2026-11-21-component-git-routing-learning.md)
+  - [기술 스택 비교 학습](docs/development-log/2026-11-21-tech-stack-overview.md)
+  - [API, 인증과 연동](docs/development-log/2026-11-21-api-auth-and-integration-learning.md)
+  - [백엔드와 데이터베이스 스택](docs/development-log/2026-11-21-backend-database-stacks.md)
 
 ---
 
@@ -63,4 +66,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yes-000&layout=compact&theme=radical)
 
 ![Streak](https://streak-stats.demolab.com?user=Yes-000&theme=radical)
-
